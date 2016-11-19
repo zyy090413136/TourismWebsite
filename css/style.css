@@ -496,9 +496,9 @@ a.gal:hover img {
 	margin-right: 24px;
 }
 
-.tab_cont .text1 {
+.extra_wrapper .text1,.extra_wrapper .text1_tx1 {
 	position: relative;
-	top: -5px;
+	top: 5px;
 	margin-bottom: 17px;
 }
 
